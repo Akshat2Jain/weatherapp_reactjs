@@ -1,5 +1,3 @@
-Plz fix #1
-
 ![Screenshot from 2022-06-13 17-57-14](https://user-images.githubusercontent.com/101265586/173359418-c20a7d0e-7798-41ca-9434-1fba9f73dd79.png)
 
 # Getting Started with Create React App
